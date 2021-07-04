@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #eeefee;
+}
+.mainPart{
+    width: 100%;
+    display: flex;
+    padding: 10px 20px;
+}
+.leftSide{
+    width: 60%;
+}
+.rightSide{
+    width: 40%;
+}
+section{
+    margin-bottom: 100px;
+    padding: 5px 30px;
+}
+.expertisePart{
+    display: flex;
+}
+.expertisePart div{
+    box-shadow: 10px 10px 30px gray;
+    margin-left: 2%;
+    padding:10px;
+}
+.expertisePart h3{
+    text-align: center;
+}
+.expertisePart div img{
+    width: 150px;
+    height: 100px;
+    margin-left: 25px;
+}
